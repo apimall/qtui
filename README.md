@@ -1,2 +1,8 @@
 # qtui
-some ui demo for qt.
+
+提供使用Qt实现一个PC端简单的“计算器”功能的demo。
+
+# 使用方式
+
+1、下载源码，将calc目录导入你的开发工具中
+2、运行main.cpp代码
